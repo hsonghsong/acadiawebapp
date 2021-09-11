@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/hsonghsong/acadiawebapp/issues"
   },
-  "homepage": "https://github.com/hsonghsong/acadiawebapp#readme"
+  "homepage": "https://github.com/hsonghsong/acadiawebapp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
