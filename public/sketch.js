@@ -6,7 +6,8 @@ var time = 0;
 function setup() {
   createCanvas(window.windowWidth, window.windowHeight);
   background(210, 250, 252);
-  text("D U S T   S T O R M", 50, 30)
+  textSize(20)
+  text("D U S T   S T O R M", 50, 40)
 
   fill(255, 126);
   // Inputs: x, y, mass, gravity
@@ -92,7 +93,8 @@ function Spring2D(xpos, ypos, m, g) {
 
 function mouseClicked(){
   background(210, 250, 252);
-  text("D U S T   S T O R M", 50, 30)
+  textSize(20)
+  text("D U S T   S T O R M", 50, 40)
 
 }
 
